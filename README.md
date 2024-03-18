@@ -6,8 +6,10 @@ many uses in real life, such as the pen tool, smooth and realistic animations, c
 The advantage of using Bézier curves is that they are easy to change and manipulate, so that it can produce precise designs that suit your needs.
 
 ## Requirement
-Python
+Python 
+
 numpy
+
 matplotlib
 
 ## How to Run?
