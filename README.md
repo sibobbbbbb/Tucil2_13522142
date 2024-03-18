@@ -11,8 +11,8 @@ matplotlib
 
 ## How to Run?
 
-1. Go to main.py on src folder
-2. Then just run it
+1. Go to main.py on src folder.
+2. Then just run it.
 3. The program will starting.
 
 ## Note
